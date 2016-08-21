@@ -1,0 +1,12 @@
+[
+{"imgSrc":"Img/5a88995103c14d8e89467f86d5f4677c.jpg","desc":"这是测试图片","text":"上学啦2：鹿晗首当足球教练"},
+{"imgSrc":"Img/832dfb313519482a99504eeb13688e1b.jpg","desc":"这是测试图片","text":"13亿：汪涵召唤复仇者联盟"},
+{"imgSrc":"Img/d0c57b338ab642d89ef9b64839ea5b59.jpg","desc":"这是测试图片","text":"夏日青春漾，vip限时免费看"},
+{"imgSrc":"Img/1f9f17929c4b44c896b547ebb4ce9801.jpg","desc":"这是测试图片","text":"校花的贴身高手2: 燃爆回归"},
+{"imgSrc":"Img/a252d9d1325946549ee7fb346e6a65e7.jpg","desc":"这是测试图片","text":"灭罪师:消失的尸体 再起谜团"},
+{"imgSrc":"Img/1f9024c3a9524dd6bc749f0c9bc2eb8b.jpg","desc":"这是测试图片","text":"老九门：群雄集结 揭探秘起源"},
+{"imgSrc":"Img/f10bbaa7760d4583b3546712453ea0f8.jpg","desc":"这是测试图片","text":"幻城：卡索樱空释寻冰晶之旅"},
+{"imgSrc":"Img/46728be2f3fa42959dde191dfe1d1231.jpg","desc":"这是测试图片","text":"笑傲江湖:宋丹丹冯小刚起争执"},
+{"imgSrc":"Img/d92e722dc3604e29964de3710db90d07.jpg","desc":"这是测试图片","text":"长歌行：林心如演绎女中豪杰"},
+{"imgSrc":"Img/2171093d70f341dca4be7c9d107deef0.jpg","desc":"这是测试图片","text":"爱奇艺电影•独播专区"}
+]
